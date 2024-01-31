@@ -1,0 +1,26 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"files.associations": {
+        "*.json": "json",
+        "*.html": "html",
+        "*.htm": "html",
+        "*.md": "markdown",
+        "*.markdown": "markdown",
+        "*.yml": "yaml",
+        "*.yaml": "yaml",
+        "*.xml": "xml",
+        ".js": "javascript",
+        ".css": "css",
+        "stdio.h": "c",
+        "raymath.h": "c",
+        "raylib.h": "c"
+    }
+}
